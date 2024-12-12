@@ -1,0 +1,23 @@
+Sex masculino, feminino
+age  idade arredondado para cima a cada 5 anos
+height    altura arredondado para cima a cada 5 cm [cm]
+weight    peso [kg]
+sight_left    visão (olho esquerdo)
+sight_right    visão (olho direito)
+hear_left    audição (ouvido esquerdo), 1 (normal), 2 (anormal)
+hear_right    audição (ouvido direito), 1 (normal), 2 (anormal)
+SBP    pressão arterial sistólica [mmHg]
+DBP    pressão arterial diastólica [mmHg]
+BLDS    BLDS ou FSG (glicose em jejum) [mg/dL]
+tot_chole    colesterol total [mg/dL]
+HDL_chole    colesterol HDL [mg/dL]
+LDL_chole    colesterol LDL [mg/dL]
+triglyceride    triglicerídeos [mg/dL]
+hemoglobin    hemoglobina [g/dL]
+urine_protein    proteína na urina, 1 (-), 2 (+/-), 3 (+1), 4 (+2), 5 (+3), 6 (+4)
+serum_creatinine    creatinina no sangue [mg/dL]
+SGOT_AST    SGOT (Glutamato-oxaloacetato transaminase) AST (Aspartato transaminase) [IU/L]
+SGOT_ALT    ALT (Alanina transaminase) [IU/L]
+gamma_GTP    y-glutamil transpeptidase [IU/L]
+SMK_stat_type_cd    Estado de fumante, 1 (nunca), 2 (fumava, mas parou), 3 (ainda fuma)
+DRK_YN    Bebe ou não
