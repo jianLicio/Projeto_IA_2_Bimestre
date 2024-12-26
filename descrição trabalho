@@ -21,3 +21,23 @@ SGOT_ALT    ALT (Alanina transaminase) [IU/L]
 gamma_GTP    y-glutamil transpeptidase [IU/L]
 SMK_stat_type_cd    Estado de fumante, 1 (nunca), 2 (fumava, mas parou), 3 (ainda fuma)
 DRK_YN    Bebe ou não
+
+1.1 Árvore de Decisão CART (padrão).
+
+1.2 Support Vector Machine (padrão).
+
+1.3 Support Vector Machine (mudando o kernel por outro).
+
+1.4 Knn (padrão)
+
+1.5 Knn (mudando o valor de k)
+
+1.6 Knn (mudando a medida de distãncia)
+
+1.7 Gaussian Naive Bayes (padrão). Obs: para atributos quantitativos, pode remover atributos qualitativos para simplificar o problema.
+
+1.8 Categorical Naive Bayes (padrão). Obs: para atributos qualitativos, pode remover atributos quantitativos para simplificar o problema.
+
+1.9 Regressão Linear (quadrados mínimos). 
+
+1.10 Perceptron.
